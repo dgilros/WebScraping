@@ -4,4 +4,4 @@ Aquest repositori conté el codi (carpeta src), els jocs de dades i exemples (ca
 
 Aquest treball utilitza web scraping per a obtenir els preus i les estadístiques de vendes de treball a Espanya durant el periode 2005-2018.
 
-El treball ha sigut realitzat en solitari per l'estudiant David Gil del Rosal.
+El treball ha sigut realitzat en solitari per l'estudiant David Gil del Rosal (dgilros@uoc.edu).
