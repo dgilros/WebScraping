@@ -4,4 +4,6 @@ Aquest repositori conté el codi (carpeta src), els jocs de dades i exemples (ca
 
 Aquest treball utilitza web scraping per a obtenir els preus i les estadístiques de vendes de tabac a Espanya durant el periode 2005-2018. S'inclou un exemple d'anàlisi d'aquestes dades al directori csv/.
 
+També conté un exemple d'ús de Selenium per a fer scraping d'un lloc web amb JavaScript i AJAX. És a la carpeta selenium/.
+
 El treball ha sigut realitzat en solitari per l'estudiant David Gil del Rosal (dgilros@uoc.edu).
